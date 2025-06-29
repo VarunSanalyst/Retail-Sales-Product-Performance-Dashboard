@@ -10,7 +10,7 @@ This project focuses on analyzing retail sales and product performance data usin
 	•	Microsoft Power BI
 	•	Power Query
 	•	DAX (Data Analysis Expressions)
-	•	Microsoft Excel (Data Source)
+	•	Microsoft Excel
 
 ⸻
 
